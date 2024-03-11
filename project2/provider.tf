@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "amterra"
+    bucket = "amterra2"
     key    = "state"
     region = "us-west-2"
   }
