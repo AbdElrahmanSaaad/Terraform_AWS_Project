@@ -1,4 +1,4 @@
-# Multi-Region Deployment with Terraform
+# AWS Multi-Region Deployment with Terraform
 
 ## Project Description
 
