@@ -47,7 +47,7 @@ This project deploys a solution consisting of an EC2 instance, an S3 bucket, and
 
 ## Terraform Backend Configuration
 
-- The Terraform state is stored in an S3 bucket named `amterra`.
+- The Terraform state is stored in an S3 bucket named `amterra2`.
 - The state files are named `state`.
 - The region for the state bucket is set to `us-west-2`.
 
